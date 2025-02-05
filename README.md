@@ -1,1 +1,2 @@
-# bnyeggen.github.io
+# You have reached
+# nyeggen.com

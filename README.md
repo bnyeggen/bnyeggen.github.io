@@ -28,6 +28,8 @@ To play this out, here is the relative bandwidth of various subsystems.
 
 I claim that the “3090 meta” is broken, and you can get more capabilities at a lower price by using last-generation workstation hardware and professional GPUs.  Observe:
 
+ <img src="https://raw.githubusercontent.com/bnyeggen/bnyeggen.github.io/refs/heads/main/workstation.jpg" alt="iron" width="720"> 
+
 This is a HP Z8 G4.  I bought it as a relatively barebones system from eBay, along with 90% of the other hardware.  Here is the complete BOM:
 
 - HP Z8 G4 (2x Xeon Gold 6136 CPUs): $600

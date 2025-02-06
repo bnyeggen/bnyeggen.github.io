@@ -4,7 +4,7 @@ Email: [bryce@nyeggen.com](bryce@nyeggen.com)
 
 LinkedIn: [https://www.linkedin.com/in/bryce-nyeggen-73559438/](https://www.linkedin.com/in/bryce-nyeggen-73559438/)
 
-#### Blog
+Twitter / X: [@bnyeggen](https://x.com/bnyeggen)
 
 ##### Big Iron for local LLM development
 *February 5, 2025*
